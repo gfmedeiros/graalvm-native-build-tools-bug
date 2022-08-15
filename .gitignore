@@ -1,0 +1,5 @@
+# Maven
+## Standard output directory
+target/
+## https://maven.apache.org/wrapper/#usage-without-binary-jar
+.mvn/wrapper/maven-wrapper.jar
